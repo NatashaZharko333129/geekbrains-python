@@ -1,0 +1,22 @@
+#1. Поработайте с переменными, создайте несколько, выведите на экран,
+# запросите у пользователя несколько чисел и строк и сохраните в переменные, выведите на экран.
+
+str = "Привет!"
+int = 33
+float = 33.9
+bool = False
+
+print(str)
+print(int)
+print(float)
+print(bool)
+
+
+user_name = input("Введите ваше имя >>> ")
+print(user_name)
+
+user_age = input("Введите ваш возраст >>> ")
+print(user_age)
+
+user_position = input("Введите вашу должность >>> ")
+print(user_position)
